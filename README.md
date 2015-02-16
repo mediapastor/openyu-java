@@ -1,4 +1,4 @@
-openyu-java
+# OpenYu Java
 ===========
 
 就是愛Java，提供了Java代碼範例，文章和教學，可以幫助你學習Java程式語言。
