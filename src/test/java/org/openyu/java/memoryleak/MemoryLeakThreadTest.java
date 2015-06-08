@@ -11,9 +11,9 @@ import java.util.concurrent.TimeUnit;
 import org.junit.Test;
 
 /**
- * The Class ThreadLeakTest.
+ * The Class MemoryLeakThreadTest.
  */
-public class ThreadLeakTest {
+public class MemoryLeakThreadTest {
 
 	/**
 	 * Thread.

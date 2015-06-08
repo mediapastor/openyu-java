@@ -6,9 +6,9 @@ import java.util.List;
 import org.junit.Test;
 
 /**
- * The Class SubstringTest.
+ * The Class MemoryLeakSubstringTest.
  */
-public class SubstringLeakTest {
+public class MemoryLeakSubstringTest {
 
 	/**
 	 * Substring.
