@@ -5,7 +5,7 @@
 
 	<groupId>org.openyu.commons</groupId>
 	<artifactId>openyu-maven</artifactId>
-	<version>0.0.0.1</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>openyu-maven</name>
